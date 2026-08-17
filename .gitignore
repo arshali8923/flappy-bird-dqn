@@ -1,0 +1,20 @@
+# trained models and logs
+runs/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual environments
+venv/
+env/
+.venv/
+
+# os junk
+.DS_Store
+Thumbs.db
+
+# editor stuff
+.vscode/
+.idea/
